@@ -12,4 +12,4 @@ Detta is a dictation app for the Mac by Fermion Research. Hold a key, speak, and
 
 Detta asks you to sign in with Google once, and shares your dictations, the recordings and their text, to improve Detta unless you turn sharing off in Settings.
 
-Detta checks for a new version once a day and updates itself; every version is also published on this page.
+Detta checks for new versions every hour and updates itself; every version is also published on this page.
